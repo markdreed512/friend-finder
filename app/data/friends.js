@@ -3,66 +3,38 @@ var friendsArr =
 [
     {
         "name": "Ahmed",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "photo": "http://placeimg.com/250/400/people",
         "scores": [
-            5,
-            1,
-            4,
-            4,
-            5,
-            1,
-            2,
-            5,
-            4,
-            1
+           1,1,1,1,1,1,1,1,1,1
         ]
     },
     {
-        "name": "Mark",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "name": "Bill",
+        "photo": "https://fillmurray.com/200/300",
         "scores": [
-            3,
-            4,
-            1,
-            1,
-            2,
-            5,
-            2,
-            5,
-            4,
-            1
+           2,2,2,2,2,2,2,2,2,2
         ]
     },
     {
         "name": "Sherman",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "photo": "http://placeimg.com/300/300/people",
         "scores": [
-            4,
-            1,
-            4,
-            4,
-            5,
-            1,
-            4,
-            1,
-            4,
-            5
+            3,3,3,3,3,3,3,3,3,3
         ]
     },
     {
         "name": "the Dude",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "photo": "http://placeimg.com/220/350/people",
         "scores": [
-            2,
-            1,
-            4,
-            4,
-            1,
-            2,
-            2,
-            1,
-            4,
-            1
+            4,4,4,4,4,4,4,4,4,4
+        ]
+    }
+    ,
+    {
+        "name": "Mildred",
+        "photo": "http://placeimg.com/300/450/people",
+        "scores": [
+            5,5,5,5,5,5,5,5,5,5
         ]
     }
 ]

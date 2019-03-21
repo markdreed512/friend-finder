@@ -35,10 +35,12 @@ module.exports = function (app) {
             if (sum < lowest) {
                 lowest = sum;
                 lowestFriend = friends[i].name;
+                lowestFriendIndex = i;
             }
         }
         console.log("comp values arr:", comparisonValues);
         console.log("best match: ", lowestFriend);
         friends.push(req.body);
+        res.send(friends[lowestFriendIndex])
     });
 }
